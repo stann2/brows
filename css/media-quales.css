@@ -1,0 +1,10 @@
+@media only screen and (max-width: 992px){
+ .whraper{
+ 	width: 750px;
+ }
+}
+@media only screen and (max-width: 768px){
+ .whraper{
+ 	width: 450px;
+ }
+}
